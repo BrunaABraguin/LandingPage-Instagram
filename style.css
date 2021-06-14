@@ -202,12 +202,12 @@ body {
 
 .app-download:nth-child(1) {
   height: 4rem;
-  background-image: url("/img/apple-store-button.png");
+  background-image: url("./img/apple-store-button.png");
 }
 
 .app-download:nth-child(2) {
   height: 5rem;
   width: 13rem;
-  background-image: url("/img/google-play-button.png");
+  background-image: url("./img/google-play-button.png");
 }
 /*# sourceMappingURL=style.css.map */
